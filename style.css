@@ -1,18 +1,10 @@
-div {
-background-color: red
-}
-
-div{
-color: white
-
-
-}
 
 #navbar {
 
     color:aqua;
     font-size: 40px;
-
+    width: <viewport-length>{1,2};
+    background-color: red
 }
 #sidebar {
 
